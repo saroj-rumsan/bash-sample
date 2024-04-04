@@ -1,1 +1,3 @@
 # Bash Sample
+
+## Getting Started
